@@ -10,9 +10,7 @@ Currently building [Pastora](https://pastora.io), a decentralized platform to in
 
 - 🐄 **Pastora** – A decentralized app for buying farming animals (cattle) with crypto or fiat, and tracking the animals in real time through GPS. Built with Rust smart contracts on Solana and a full-stack frontend in Next.js + MongoDB.
 - 🗳️ **Voting App** – An on-chain voting system using Program Derived Addresses (PDAs) on Solana.
-- 🎟️ **Token Lottery** – A decentralized lottery where users participate with tokenized tickets.
-- 🎨 **NFT Minting Platform** – A Solana dApp to mint and manage unique NFTs and their metadata.
-
+- 🎟️ **Bookea** - Automation platform for businesses with costumers through whatsapp appointments.
 ---
 
 ## 🛠 Tech Stack
